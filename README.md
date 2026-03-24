@@ -1,2 +1,1 @@
-# FolderInstaller-SW
- 
+# FolderAutoInstaller-Utility
