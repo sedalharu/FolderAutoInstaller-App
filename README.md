@@ -1,1 +1,1 @@
-# FolderAutoInstaller-Utility
+# FolderAutoInstaller
